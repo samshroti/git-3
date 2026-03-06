@@ -3,3 +3,8 @@
 ## Install
 
 this is some installation message
+
+'''bash
+npm install
+'''
+
